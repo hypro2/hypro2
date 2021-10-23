@@ -2,11 +2,11 @@
 Hello, My Name is Hyeongjun!   
 
 ## Major
-정보사회학과 & 신산업소프트웨어전공
+한양대학교 에리카캠퍼스 정보사회학과 & 신산업소프트웨어전공   
 
 ## Python AI Engineer
-자연어처리(NLP) 기반 AI개발 중   
 현재 특허정보 회사에서 AI개발팀에서 근무   
+파이썬 텐서플로, 케라스를 통해 자연어처리(NLP) 기반 AI개발 중   
 혁신성장 청년인재 집중양성사업 '빅데이터 기반 비즈니스 개발자' 수료   
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
