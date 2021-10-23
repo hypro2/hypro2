@@ -7,10 +7,11 @@
 
 ## Python AI Engineer
 현재 특허 정보 회사의 기업연구소에서 AI개발팀에서 연구원으로 근무 중   
-(I am currently working as a researcher in the AI development team at a corporate research institute of a patent information company.)   
+(I am currently working as a researcher in the AI development team at a corporate research institute of a patent information company.)    
+   
 기업에서 파이썬 텐서플로, 케라스로 특허 데이터를 통한 자연어처리(NLP) AI개발 중   
-(I am developing natural language processing (NLP) AI through patent data with Python TensorFlow and Keras.)   
-
+(I am developing natural language processing (NLP) AI through patent data with Python TensorFlow and Keras.)    
+   
 홍익대학교 주관 2021 혁신성장 청년인재 집중양성사업 '빅데이터 기반 비즈니스 개발자' 수료   
 (I Completed the 2021 Innovation Growth Youth Talent Intensive Training Project "BigData Business Developer" hosted by Hongik University.)      
 
