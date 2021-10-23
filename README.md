@@ -1,5 +1,4 @@
 # Hyeongjun GitHub
-Hello, My Name is Hyeongjun!   
 현재 깃허브의 포트폴리오들이 정리되지 않았습니다.
 
 ## Major
