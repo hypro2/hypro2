@@ -1,4 +1,5 @@
 # Hyeongjun GitHub
+Hello, My Name is Hyeongjun!   
 
 ## Major
 정보사회학과 & 신산업소프트웨어전공
