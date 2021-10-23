@@ -5,8 +5,8 @@
 한양대학교 에리카캠퍼스 정보사회학과 & 신산업소프트웨어전공 졸업   
 
 ## Python AI Engineer
-현재 특허 정보 회사 기업연구소에서 AI개발팀에서 연구원으로 근무 중   
-파이썬 텐서플로, 케라스를 통해 기업에서 자연어처리(NLP) 기반 AI개발 중   
+현재 특허 정보 회사의 기업연구소에서 AI개발팀에서 연구원으로 근무 중   
+파이썬 텐서플로, 케라스를 통해 기업에서 특허 데이터를 통한 자연어처리(NLP) AI개발 중   
 2021 혁신성장 청년인재 집중양성사업 '빅데이터 기반 비즈니스 개발자' 수료   
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
