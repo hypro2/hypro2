@@ -1,6 +1,6 @@
 # Hyeongjun GitHub
-김형준의 깃허브를 처음 시작해봅니다.(2021/10/24)   
-현재 깃허브의 포트폴리오들이 정리되지 않았습니다.
+김형준의 깃허브를 처음 시작해봅니다. (2021/10/24)   
+현재 깃허브의 포트폴리오들이 정리되지 않았습니다.(2021/10/24)   
 
 ## Major
 한양대학교 에리카캠퍼스 정보사회학과 & 신산업소프트웨어전공 졸업   
@@ -13,7 +13,7 @@
 (I am developing natural language processing (NLP) AI through patent data with Python TensorFlow and Keras.)    
    
 홍익대학교 주관 2021 혁신성장 청년인재 집중양성사업 '빅데이터 기반 비즈니스 개발자' 수료   
-(I Completed the 2021 Innovation Growth Youth Talent Intensive Training Project hosted by Hongik University.)      
+(I Completed the 2021 Innovation Growth Youth Talent Training Project hosted by Hongik University.)      
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
