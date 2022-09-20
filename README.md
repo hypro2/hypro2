@@ -8,8 +8,8 @@
 (Infomation-Sociology & Software For Emerging-Tech)   
 
 ## Python AI Engineer
-현재 특허관련 중견기업의 기업연구소에서 AI연구실 연구원으로 근무 중   
-(I am currently working as a researcher in the AI lab  at patent information company.)    
+현재 기업연구소에서 AI연구실 연구원으로 근무 중   
+(I am currently working as a researcher in the AI lab)    
    
 기업에서 텐서플로, 케라스, 파이토치, 버트등등를 통해 특허 데이터로 자연어처리(NLP) AI개발 중   
 (I am developing natural language processing (NLP) AI with patent data through TensorFlow, Keras and Bert.)    
