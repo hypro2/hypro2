@@ -5,6 +5,7 @@
 (Infomation-Sociology & Software For Emerging-Tech)
 
 인공지능시스템학과 
+(Department of Artificial Intelligence Systems)
 
 ## Python AI Engineer
 현재 기업연구소에서 AI연구실 연구원으로 근무 중   
