@@ -1,10 +1,10 @@
 # GitHub
-깃허브를 처음 시작해봅니다. (2021/10/24)   
-몇몇 프로젝트는 기업관련으로 비공개 및 삭제되었습니다. (2021/10/26)
 
 ## Major
 정보사회학과 & 신산업소프트웨어전공 졸업   
-(Infomation-Sociology & Software For Emerging-Tech)   
+(Infomation-Sociology & Software For Emerging-Tech)
+
+인공지능시스템학과 
 
 ## Python AI Engineer
 현재 기업연구소에서 AI연구실 연구원으로 근무 중   
