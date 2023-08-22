@@ -1,4 +1,5 @@
 # GitHub
+https://hyeongjunkim.notion.site/75b716ee624d40289e6f30d63acf3a58?pvs=4
 
 ## Major
 정보사회학과 & 신산업소프트웨어전공 졸업   
@@ -8,7 +9,7 @@
 (Department of Artificial Intelligence Systems)
 
 ## Python AI Engineer
-현재 기업연구소에서 AI연구실 연구원으로 근무 중   
+현재 WIPS AI연구실 연구원으로 근무 중   
 (I am currently working as a researcher in the AI lab)    
    
 기업에서 텐서플로, 케라스, 파이토치, 버트등등를 통해 특허 데이터로 자연어처리(NLP) AI개발 중   
