@@ -4,18 +4,13 @@
 [노션 포트폴리오](https://hyeongjunkim.notion.site/75b716ee624d40289e6f30d63acf3a58?pvs=4)
 
 ## Major
-정보사회학과 & 신산업소프트웨어전공 졸업   
-(Infomation-Sociology & Software For Emerging-Tech)
+정보사회학과 & 신산업소프트웨어전공 (Infomation-Sociology & Software For Emerging-Tech)
 
-인공지능시스템학과 
-(Department of Artificial Intelligence Systems)
+인공지능시스템학과 (Department of Artificial Intelligence Systems)
 
 ## Python AI Engineer
 현재 WIPS AI연구실 연구원으로 근무 중   
 (I am currently working as a researcher in the AI lab)    
-   
-기업에서 텐서플로, 케라스, 파이토치, 버트등등를 통해 특허 데이터로 자연어처리(NLP) AI개발 중   
-(I am developing natural language processing (NLP) AI with patent data through TensorFlow, Keras and Bert.)    
    
 홍익대학교 주관 2021 혁신성장 청년인재 집중양성사업 '빅데이터 기반 비즈니스 개발자' 수료   
 (I Completed the 2021 Innovation Growth Youth Talent Training Project hosted by Hongik University.)      
