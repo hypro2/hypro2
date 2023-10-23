@@ -18,6 +18,11 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+## Project
+[patent_chatbot Private](https://www.notion.so/hyeongjunkim/AI-Clustering-039dc9ea25f944539904565d740be4d8?pvs=4)
+[patent_clustering Private](https://www.notion.so/hyeongjunkim/73142219bd0b4cb4bc1e312f053342f9?pvs=4)
+keyword_extract Private
+
 ## Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
