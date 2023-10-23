@@ -20,9 +20,9 @@
 
 ## Project
 
-[patent_chatbot Private](https://www.notion.so/hyeongjunkim/AI-Clustering-039dc9ea25f944539904565d740be4d8?pvs=4)
+[patent_Clustering Private](https://www.notion.so/hyeongjunkim/AI-Clustering-039dc9ea25f944539904565d740be4d8?pvs=4)
 
-[patent_clustering Private](https://www.notion.so/hyeongjunkim/73142219bd0b4cb4bc1e312f053342f9?pvs=4)
+[patent_Chatbot Private](https://www.notion.so/hyeongjunkim/73142219bd0b4cb4bc1e312f053342f9?pvs=4)
 
 
 ## Language
