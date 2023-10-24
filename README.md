@@ -34,3 +34,6 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+## Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hypro2)](https://github.com/hypro2/github-readme-stats)
