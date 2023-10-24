@@ -10,7 +10,7 @@
 인공지능시스템학과 (Department of Artificial Intelligence Systems)
 
 ## Python AI Engineer
-현재 WIPS AI연구실 연구원으로 근무 중   
+현재 AI연구실 연구원으로 근무 중   
 (I am currently working as a researcher in the AI lab)    
    
 홍익대학교 주관 2021 혁신성장 청년인재 집중양성사업 '빅데이터 기반 비즈니스 개발자' 수료   
