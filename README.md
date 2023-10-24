@@ -1,7 +1,7 @@
 # GitHub
 [깃 블로그](https://hypro2.github.io)
 
-## 노션
+## Notion
 [노션 포트폴리오](https://hyeongjunkim.notion.site/75b716ee624d40289e6f30d63acf3a58?pvs=4)
 
 ## Major
@@ -17,11 +17,9 @@
 (I Completed the 2021 Innovation Growth Youth Talent Training Project hosted by Hongik University.)      
 
 ## Project
-
 [Patent_Clustering(Private Code)](https://www.notion.so/hyeongjunkim/AI-Clustering-039dc9ea25f944539904565d740be4d8?pvs=4)
 
 [Patent_Chatbot(Private Code)](https://www.notion.so/hyeongjunkim/73142219bd0b4cb4bc1e312f053342f9?pvs=4)
-
 
 ## Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
