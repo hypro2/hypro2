@@ -1,4 +1,5 @@
 # GitHub
+[깃 블로그](https://hypro2.github.io)
 
 ## 노션
 [노션 포트폴리오](https://hyeongjunkim.notion.site/75b716ee624d40289e6f30d63acf3a58?pvs=4)
@@ -20,9 +21,9 @@
 
 ## Project
 
-[patent_Clustering Private](https://www.notion.so/hyeongjunkim/AI-Clustering-039dc9ea25f944539904565d740be4d8?pvs=4)
+[Patent_Clustering Private Code](https://www.notion.so/hyeongjunkim/AI-Clustering-039dc9ea25f944539904565d740be4d8?pvs=4)
 
-[patent_Chatbot Private](https://www.notion.so/hyeongjunkim/73142219bd0b4cb4bc1e312f053342f9?pvs=4)
+[Patent_Chatbot Private Code](https://www.notion.so/hyeongjunkim/73142219bd0b4cb4bc1e312f053342f9?pvs=4)
 
 
 ## Language
@@ -31,5 +32,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 
