@@ -36,4 +36,4 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hypro2)](https://github.com/hypro2/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hypro2&hide=stars,contribs&count_private=true&show_icons=true)](https://github.com/hypro2/github-readme-stats)
