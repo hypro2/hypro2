@@ -1,8 +1,8 @@
 # GitHub
-[깃 블로그](https://hypro2.github.io)
+[Git Blog](https://hypro2.github.io)
 
 ## Notion
-[노션 포트폴리오](https://hyeongjunkim.notion.site/75b716ee624d40289e6f30d63acf3a58?pvs=4)
+[Portfolio](https://hyeongjunkim.notion.site/75b716ee624d40289e6f30d63acf3a58?pvs=4)
 
 ## Major
 정보사회학과 & 신산업소프트웨어전공 (Infomation-Sociology & Software For Emerging-Tech)
