@@ -1,20 +1,6 @@
 # GitHub
 [Git Blog](https://hypro2.github.io)
-
-## Notion
-[Portfolio](https://hyeongjunkim.notion.site/75b716ee624d40289e6f30d63acf3a58?pvs=4)
-
-## Major
-정보사회학과 & 신산업소프트웨어전공 (Infomation-Sociology & Software For Emerging-Tech)
-
-인공지능시스템학과 (Department of Artificial Intelligence Systems)
-
-## Python AI Engineer
-현재 AI연구실 연구원으로 근무 중   
-(I am currently working as a researcher in the AI lab)    
    
-홍익대학교 주관 2021 혁신성장 청년인재 집중양성사업 '빅데이터 기반 비즈니스 개발자' 수료   
-(I Completed the 2021 Innovation Growth Youth Talent Training Project hosted by Hongik University.)      
 
 ## Project
 [Patent_Clustering (Private Code)](https://hyeongjunkim.notion.site/AI-Clustering-039dc9ea25f944539904565d740be4d8?pvs=4)
