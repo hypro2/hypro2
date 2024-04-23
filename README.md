@@ -1,4 +1,4 @@
-# GitHub 오신 것을 환영합니다! 👋
+# Hypro2의 GitHub 오신 것을 환영합니다! 👋
 
 [Git Blog](https://hypro2.github.io)
 
