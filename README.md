@@ -10,11 +10,19 @@
 
 언어 기술 분야에서의 혁신과 발전에 관심이 있는 분들에게 새로운 아이디어와 통찰력을 제공하고, 같이 성장하는 공간이 되기를 희망합니다.
 
+Hi! Welcome to my GitHub, where I share various updates, reviews, and tutorials on Large Language Models (LLMs) and other related topics. I strive to provide helpful information for those who are curious or passionate about the latest developments in language technology.
+
+I hope to provide new ideas and insights to those interested in innovation and progress in the field of language technology, and to be a place where we can grow together.
+
+
 ## 함께 소통해요!
 제 GitHub를 자유롭게 탐험하고 GitHub을 통해 저와 소통해주세요. 
 
 제 콘텐츠가 유용하고 흥미로우셨다면 여러분의 지지는 제게 큰 힘이 되며 계속해서 가치 있는 콘텐츠를 제공할 수 있도록 도와주는 역할을 합니다. 함께 배우고 성장해봐요! 🚀
 
+Please feel free to explore my GitHub and connect with me through GitHub. 
+
+If you find my content useful and interesting, your support means a lot to me and helps me continue to provide valuable content. Let's learn and grow together! 🚀
 ## Skill Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
