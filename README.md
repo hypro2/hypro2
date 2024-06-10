@@ -2,6 +2,8 @@
 
 [Git Blog](https://hypro2.github.io)
 
+[Tistory](https://hyeong9647.tistory.com/)
+
 ![image](https://hypro2.github.io/assets/images/profile_image.jpg)
 
 
