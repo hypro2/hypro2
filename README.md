@@ -4,6 +4,8 @@
 
 [Tistory](https://hyeong9647.tistory.com/)
 
+[Huggingface](https://huggingface.co/kimhyeongjun)
+
 ![image](https://hypro2.github.io/assets/images/profile_image.jpg)
 
 
